@@ -71,7 +71,7 @@ Press CTRL+C in the spoofer terminal.
 The tool will automatically restore ARP tables.
 Press CTRL+C in the sniffer to stop capturing.
 
-## 📸 Screenshots
+##  Screenshots
 
 **ARP Spoofer Running:**
 ![ARP Spoofer]
@@ -79,7 +79,7 @@ Press CTRL+C in the sniffer to stop capturing.
 **HTTP Sniffer Capturing Credentials:**
 ![HTTP Sniffer]
 
-⚙️ Project Structure
+ Project Structure
 arp-spoof-sniff/
 ├── scanner.py      # Network scanner
 ├── sniffer.py      # HTTP sniffer
